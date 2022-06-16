@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://<Pratiksha kadam>:<QM4kQRSrS833eMf>@cluster0.pvupq.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
